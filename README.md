@@ -4,7 +4,7 @@
 
 **Desenvolvedor Full Stack em formação**
 
-Apaixonado por construir projetos reais — do back-end ao front-end, do desktop ao mobile.
+Apaixonado por construir projetos reais, do back-end ao front-end, do desktop ao mobile.
 Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre aprendendo algo novo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-diamantino-/)
@@ -21,7 +21,7 @@ Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre
 - 🖥️ Experiência com **back-end** (Java, Spring Boot, APIs REST) e **front-end** (React, HTML, CSS, JavaScript)
 - 📱 Já desenvolvi aplicações **mobile** com Ionic e TypeScript integradas ao Firebase
 - 🛠️ Construindo um portfólio com projetos práticos que cobrem toda a stack
-- 💡 Curioso por natureza — gosto de entender como as coisas funcionam de ponta a ponta
+- 💡 Curioso por natureza, gosto de entender como as coisas funcionam de ponta a ponta
 
 ---
 
@@ -81,13 +81,13 @@ Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre
 
 ---
 
-### 🧮 [Calculadora Desktop](https://github.com/vitordiamantino/java-calculadora)
-> Calculadora com visual dark inspirado no iOS/macOS
+### 🗂️ [Portfólio](https://github.com/vitordiamantino/MeuPortfolio)
+> Portfólio pessoal com minhas informações, projetos e trajetória como desenvolvedor
 
-- Operações básicas, histórico de cálculos e suporte a teclado
-- Separação de responsabilidades: lógica separada da interface
+- Apresentação da stack, projetos e contato
+- Desenvolvido com HTML e CSS puro
 
-`Java` `Swing`
+`HTML` `CSS`
 
 ---
 
@@ -101,10 +101,3 @@ Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre
 
 </div>
 
----
-
-<div align="center">
-
-*"De ponta a ponta — do banco de dados à tela do usuário."*
-
-</div>
