@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Vitor Diamantino 👋
 
-**Desenvolvedor Full Stack em formação**
+**Desenvolvedor Full Stack**
 
 Apaixonado por construir projetos reais, do back-end ao front-end, do desktop ao mobile.
 Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre aprendendo algo novo.
@@ -17,7 +17,7 @@ Tenho experiência com Java, JavaScript, React, Ionic e Firebase, e estou sempre
 
 ## 🚀 Sobre mim
 
-- 🎯 Objetivo: atuar como desenvolvedor **Full Stack** no mercado de tecnologia
+- 🎯 Objetivo: continuar atuando como desenvolvedor **Full Stack** no mercado de tecnologia
 - 🖥️ Experiência com **back-end** (Java, Spring Boot, APIs REST) e **front-end** (React, HTML, CSS, JavaScript)
 - 📱 Já desenvolvi aplicações **mobile** com Ionic e TypeScript integradas ao Firebase
 - 🛠️ Construindo um portfólio com projetos práticos que cobrem toda a stack
